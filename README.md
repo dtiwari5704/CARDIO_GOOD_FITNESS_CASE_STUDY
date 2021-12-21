@@ -15,3 +15,7 @@ CardioGoodFitness.csv - it contains information about customers purchasing produ
 •	Income - of the customer
 •	Miles- expected to run
 
+
+
+
+https://nbviewer.org/github/dtiwari5704/CARDIO_GOOD_FITNESS_CASE_STUDY/blob/main/CARDIO_GOOD_FITNESS_CASE_STUDY.ipynb
